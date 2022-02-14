@@ -4,7 +4,7 @@ This is an implementation of a raycasting engine in OpenGL/freeglut. Levels can 
 the '#' symbols in the map string.
 
 Controls:
-W - move forward/
+W - move forward\
 A - move left\
 S - move back \
 D - move right\
