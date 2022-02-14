@@ -1,4 +1,4 @@
-# Raycasting Engine
+# Raycasting Engine in C++
 
 This is an implementation of a raycasting engine in OpenGL/freeglut. Levels can be edited by changing\
 the '#' symbols in the map string.
