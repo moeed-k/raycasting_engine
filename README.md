@@ -5,9 +5,9 @@ the '#' symbols in the map string.
 
 Controls:\
 W - move forward\
-A - move left\
+A - turn left\
 S - move back \
-D - move right\
+D - turn right\
 Q - strafe left\
 E - strafe right\
 P - toggle performance mode
