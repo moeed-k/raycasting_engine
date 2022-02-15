@@ -14,3 +14,5 @@ P - toggle performance mode
 
 Performance mode just changes the shading of the floor. I came up with the shading method in a short time, so while I think
 it looks nice, it certainly isn't optimized very well and can reduce performance. 
+
+![img]/raycaster.png
